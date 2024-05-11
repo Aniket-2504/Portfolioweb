@@ -1,7 +1,3 @@
-# Portfolioweb
-This is Portfolio Wbsite
-
-
 <h1>Portfolio Website</h1>
 This project is a simple portfolio website created as a practice exercise for frontend technologies, including HTML, CSS, and JavaScript.
 
